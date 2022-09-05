@@ -1,0 +1,36 @@
+[ 
+    {
+        "id": 1,
+        "name": "Germany",
+        "alpha2Code": "DE",
+        "alpha3Code": "DEU"
+    },
+
+    {
+        "id": 2,
+        "name": "Turkey",
+        "alpha2Code": "TR",
+        "alpha3Code": "TUR"
+    },
+
+    {
+        "id": 3,
+        "name": "Denmark",
+        "alpha2Code": "DK",
+        "alpha3Code": "DNK"
+    },
+
+    {
+        "id": 4,
+        "name": "Switzerland",
+        "alpha2Code": "CH",
+        "alpha3Code": "CHE"
+    },
+
+    {
+        "id": 5,
+        "name": "Azerbaijan",
+        "alpha2Code": "AZ",
+        "alpha3Code": "AZE"
+    }
+]
